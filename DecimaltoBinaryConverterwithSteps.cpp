@@ -4,7 +4,6 @@ int main()
 	int bin = 0;
 	int rem,x,y;
 	int i = 1;
-	int step = 1;
 	printf("Enter the Decimal Value:");
 	scanf("%d",&x);
 	while(x != 0)
