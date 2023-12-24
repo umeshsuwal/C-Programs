@@ -1,3 +1,4 @@
+//This program is about Decimal To Binary Number Converter with C
 #include<stdio.h>
 int main()
 {
