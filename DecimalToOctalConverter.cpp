@@ -1,3 +1,4 @@
+//This Code is a Octal Number Converter from Decimal with Steps..
 #include<stdio.h>
 int main()
 {
@@ -9,14 +10,12 @@ int main()
 	scanf("%d",&x);
 	while(x != 0)
 	{
-		
 		rem = x % 8;
 		y = x;
 		x = x / 8;
 		printf("\n %d / 8 = %d \t Rem = %d",y,x,rem);
 		oct = oct + (rem * i);
 		i = i * 10;
-		
 	}
 	printf("\n \nThe Octal Representation is %d",oct);
 	printf("\n \nNote : In Octal , The Rem is placed from down to up.");
