@@ -1,4 +1,5 @@
 //This Code is a Octal Number Converter from Decimal with Steps..
+//By Umesh Suwal
 #include<stdio.h>
 int main()
 {
