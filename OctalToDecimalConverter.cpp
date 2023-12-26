@@ -1,3 +1,4 @@
+//This Program converts octal value into Decimal values with Steps
 #include<stdio.h>
 #include<math.h>
 int main()
