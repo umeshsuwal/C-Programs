@@ -6,6 +6,7 @@ int main()
 	int x,y,z;
 	int i = 1;
 	int n = 0;
+	printf("Enter the following values for Alphbetical representation\n");
 	printf("Enter the Hexadecimal Value:");
 	scanf("%d",&x);
 	if((x % 10) <= 15)
