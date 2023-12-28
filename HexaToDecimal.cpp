@@ -11,6 +11,7 @@ int main()
 	printf(" B \t=\t 11 \n");
 	printf(" C \t=\t 12 \n");
 	printf(" D \t=\t 13 \n");
+	printf(" E \t=\t 14 \n");
 	printf("Enter the Hexadecimal Value:");
 	scanf("%d",&x);
 	if((x % 10) <= 15)
