@@ -7,6 +7,7 @@ int main()
 	int i = 1;
 	int n = 0;
 	printf("Enter the following values for Alphbetical representation\n");
+	printf(" A \t=\t 10 \n");
 	printf("Enter the Hexadecimal Value:");
 	scanf("%d",&x);
 	if((x % 10) <= 15)
